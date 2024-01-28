@@ -16,7 +16,7 @@ python3 vm_translator.py sample.vm
 
 ### Result
 
-##### sample.vm
+##### input: sample.vm
 
 ```
 // Executes a sequence of arithmetic and logical operations
@@ -61,7 +61,7 @@ or
 not
 ```
 
-##### sample.asm
+##### output: sample.asm
 
 ```
 @17
